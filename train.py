@@ -45,9 +45,9 @@ class Category_Classifier(object):
         self.epochs         = 600
         self.hiddens        = [400,400]
         self.learning_rate  = 0.001
-        self.initialization = 0
-        self.mlp_optimizer  = 1
-        self.acceptable_acc = 0.91
+        self.initialization = 0     #xavier
+        self.mlp_optimizer  = 1     #Adam
+        self.acceptable_acc = 0.80
         self.batch_size     = 500
         self.model_path     = "./models/"
 
