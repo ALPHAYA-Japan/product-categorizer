@@ -1,0 +1,5 @@
+model_checkpoint_path: "207.ckpt"
+all_model_checkpoint_paths: "199.ckpt"
+all_model_checkpoint_paths: "202.ckpt"
+all_model_checkpoint_paths: "203.ckpt"
+all_model_checkpoint_paths: "207.ckpt"
